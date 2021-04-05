@@ -1,6 +1,6 @@
 <html>
     <body>
-        <h1>HELLO Larabel<h1>
+        <h1>HELLO Laravel<h1>
             <h1>DBから表示しているよ<h1>
             <tr><th>Name</th><th>Mail</th><th>Age</th></tr>
                 <br>
@@ -12,4 +12,5 @@
                 </tr>
             @endforeach
     </body>
-</html>
+
+    
